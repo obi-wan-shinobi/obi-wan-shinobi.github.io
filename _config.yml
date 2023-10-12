@@ -72,6 +72,17 @@ linkedin_username: shreyas-kalvankar # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: W8-T__UAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
+orcid_id: # your ORCID ID
+medium_username: # your Medium username
+quora_username: # your Quora username
+publons_id: # your ID on Publons
+research_gate_profile: # your profile on ResearchGate
+blogger_url: # your blogger URL
+work_url: # work page URL
+keybase_username: # your keybase user name
+wikidata_id: # your wikidata id
+dblp_url: # your DBLP profile url
+stackoverflow_id: 10013648/madara
 
 contact_note: >
   The best way to reach me is via an e-mail.
@@ -241,8 +252,8 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Kalvankar]
+  first_name: [Shreyas, S.]
 
   style: apa
   locale: en

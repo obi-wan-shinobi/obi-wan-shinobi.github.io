@@ -2,25 +2,22 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Software Engineer # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info:
+  # more_info: >
+  # <p>555 your office number</p>
+  # <p>123 your address street</p>
+  # <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+news: true # includes a list of news items
+latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interests are multifaceted, centering on machine learning and deep learning theory, with a strong inclination towards unraveling the underlying mathematics that power these cutting-edge technologies. I am particularly passionate about exploring the mathematical foundations of neural networks, optimization techniques, and the interplay between data and algorithms in these domains. Furthermore, I am deeply committed to applying modern deep learning algorithms to astrophysics, where they can enhance our understanding of celestial phenomena, numerical analysis, to improve computational simulations and accuracy, and to various mathematical challenges, where these techniques can be harnessed for innovative problem-solving. These pursuits drive my curiosity and ambition to push the boundaries of knowledge and discover novel intersections between the worlds of artificial intelligence and the sciences.
