@@ -1,11 +1,11 @@
 ---
 layout: cv
-permalink: /cv/
+permalink: # /cv/
 title: cv
-nav: true
+nav: false
 nav_order: 4
 cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in 'pages/_cv.md'. You can also change or remove the top pdf download button.
+description: I try my best to keep it updated.
 toc:
   sidebar: left
 ---
