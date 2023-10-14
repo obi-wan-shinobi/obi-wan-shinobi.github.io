@@ -1,8 +1,8 @@
 ---
 layout: page
-title: ABU Robocon
+title: Robocon
 description: Robot competition conducted by Asia-Pacific Broadcasting Union
-img: assets/img/schrodpy.png
+img: assets/img/vector.jpg
 importance: 3
 category: Robotics
 ---
