@@ -2,81 +2,25 @@
 layout: page
 title: SchrodPy
 description: A python package for Quantum Simulations
-img: assets/img/schrodpy.png
+img: assets/img/schrodpy/thumbnail.png
 importance: 2
 category: Computational Science
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+The latest project by far which I haven't been able to work on after starting my job. It's still in it's early phases, and plans at providing an efficient
+simulation of quantum systems
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+I delved into the intriguing world of quantum particle simulation, with a particular focus on single particle systems. My primary objective was to gain a deeper understanding of quantum mechanics by exploring and applying various numerical methods. The central problem I tackled was the solution of Schrödinger's Time Independent wave equation, a fundamental equation in quantum physics, which describes the behavior of quantum systems. In my case, I employed these methods to find stationary states of a particle confined within an Infinite Potential Well, a classic problem in quantum mechanics that serves as an important introductory example.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+This research not only allowed me to grasp the essential principles of quantum mechanics but also provided valuable hands-on experience in solving complex problems using computational methods. The exploration of numerical techniques for solving Schrödinger's equation offered insights into the behavior of quantum particles and how they behave within different physical constraints, in this case, the Infinite Potential Well.
+
+As a result of this research, I see significant prospects for contributing to the field of quantum physics. Specifically, I envision the development of an efficient and community-driven Python package designed for simulating quantum many-body systems using tensor networks. Such a package could facilitate the work of researchers and enthusiasts in the quantum field, providing them with a powerful tool for tackling complex quantum problems, simulations, and experiments. The integration of tensor networks into quantum simulations offers a promising avenue for tackling intricate many-body quantum systems, making this a noteworthy endeavor with the potential to benefit the broader scientific community.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/schrodpy/quantum-well-problem.png" title="quantum-well-problem" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Simulation of the the wave function for the first 10 eigen states of Infinite Potential Well
 </div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.html path="assets/img/6.jpg" title="example image"
-    class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.html path="assets/img/11.jpg" title="example image"
-    class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
