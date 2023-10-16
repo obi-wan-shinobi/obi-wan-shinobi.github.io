@@ -7,4 +7,7 @@ dropdown: true
 children:
   - title: blog
     permalink: /blog/
+  - title: divider
+  - title: sketches
+    permalink: /sketches/
 ---
