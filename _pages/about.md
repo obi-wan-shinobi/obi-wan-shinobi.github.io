@@ -29,6 +29,11 @@ wish to explore their application in solving various mathematical challenges.
 These interests drive my curiosity at the intersection of artificial
 intelligence and scientific disciplines.
 
+I am also interested in film analysis, literature analysis, and a
+fascination for cultural linguistics. To that end, I am also interested in
+unraveling the intricate connections between narratives, human expression, and
+cultural dynamics using Natural Language Processing and and computer vision.
+
 I have experience applying deep learning to astrophysics and am eager
 to explore more efficient ways to harness these algorithms for scientific
 advancement. I'm equally drawn to computational physics and simulations,
