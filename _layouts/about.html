@@ -69,6 +69,19 @@ layout: default
               <div class="contact-note">
                 {{ site.contact_note }}
               </div>
+            <!-- Note to anyone copying the HTML for the following counter: 
+            the counter name ("username" on this page) must be unique.
+            Otherwise different pages will increment the same counter. See
+            http://stuff.mit.edu/doc/counter-howto.html. -->
+
+            <small>This page has been accessed at least
+            <a href="http://stuff.mit.edu/doc/counter-howto.html"><img 
+            src="http://stuff.mit.edu/cgi/counter/shreyaskalvankar" alt="several"></a>
+            times </small>
+            <!-- since the counter was last reset, shouldn't happen, but include the disclaimer anyway -->
+            <!-- or January 29, 1996,  -->
+            <!-- when the counter with this name was first used --> 
+            <!-- whichever is more recent. -->
 
             </div>
           {%- endif %}
