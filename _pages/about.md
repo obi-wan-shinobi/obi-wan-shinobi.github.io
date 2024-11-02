@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Software Engineer # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: MSc. Computer Science @ TU Delft # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -20,12 +20,23 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-My research interests are deeply rooted in the theoretical foundations of machine learning and deep learning, with a strong emphasis on the mathematical underpinnings of these technologies. I am particularly fascinated by the potential applications of these mathematical principles in scientific domains, such as mathematics, astrophysics, etc., where they can play a pivotal role in processing and enhancing research efforts. Moreover, I'm passionate about leveraging deep learning to tackle complex mathematical challenges across different scientific disciplines. These interests drive my curiosity at the intersection of artificial intelligence, mathematics, and scientific exploration.
+I am a graduate student in computer science at TU Delft.
+
+My research interests are deeply rooted in the theoretical foundations of
+machine learning and deep learning, with a strong emphasis on the mathematical
+underpinnings of these technologies. I am particularly fascinated by the
+potential applications of these mathematical principles in scientific domains,
+such as mathematics, astrophysics, etc., where they can play a pivotal role in
+processing and enhancing research efforts. Moreover, I'm passionate about
+leveraging deep learning to tackle complex mathematical challenges across
+different scientific disciplines. These interests drive my curiosity at the
+intersection of artificial intelligence, mathematics, and scientific
+exploration.
 
 I graduated with a _Bachelor's in Computer Engineering_ and briefly worked as an
 ML researcher at [Relfor Labs](https://www.relfor.com/), where I specialized in developing deep neural networks for audio
-data classification. Presently, I work as a software developer at [Dalton
-Maag](https://www.daltonmaag.com/).
+data classification. I worked as a software developer at [Dalton
+Maag](https://www.daltonmaag.com/) where I worked on genetic algorithms.
 
 In my free time, I enjoy exploring new languages, staying informed about
 technological advancements in computer science, physics, and
