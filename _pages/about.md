@@ -20,8 +20,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a graduate student in computer science at TU Delft.
-
 My research interests lie in the theoretical foundations of machine learning,
 with a focus on understanding neural networks and the mechanisms behind their
 empirical success. I aim to use tools from functional analysis, operator
