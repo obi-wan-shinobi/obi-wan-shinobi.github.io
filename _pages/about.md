@@ -22,16 +22,17 @@ social: true # includes social icons at the bottom of the page
 
 I am a graduate student in computer science at TU Delft.
 
-My research interests are deeply rooted in the theoretical foundations of
-machine learning and deep learning, with a strong emphasis on the mathematical
-underpinnings of these technologies. I am particularly fascinated by the
-potential applications of these mathematical principles in scientific domains,
-such as mathematics, astrophysics, etc., where they can play a pivotal role in
-processing and enhancing research efforts. Moreover, I'm passionate about
-leveraging deep learning to tackle complex mathematical challenges across
-different scientific disciplines. These interests drive my curiosity at the
-intersection of artificial intelligence, mathematics, and scientific
-exploration.
+My research interests lie in the theoretical foundations of machine learning,
+with a focus on understanding neural networks and the mechanisms behind their
+empirical success. I aim to use tools from functional analysis, operator
+theory, and optimization dynamics to study gradient-based learning algorithms
+and the structures they implicitly exploit. I am particularly interested in the
+mathematical mechanisms underlying training dynamics, implicit bias,
+generalization, and the transition between feature-learning and lazy regimes.
+
+Broadly, I am motivated by questions at the intersection of machine learning
+theory and mathematical analysis, aiming to develop a clearer understanding of
+how modern learning algorithms behave and why they work.
 
 I graduated with a _Bachelor's in Computer Engineering_ and briefly worked as an
 ML researcher at [Relfor Labs](https://www.relfor.com/), where I specialized in developing deep neural networks for audio
